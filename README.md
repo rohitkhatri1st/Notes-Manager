@@ -1,6 +1,6 @@
 # Notes-Manager
 REST API for managing notes. 
-Link to the complete Documentation is : https://documenter.getpostman.com/view/12537346/TzCP8Tgc
+<a href= "https://documenter.getpostman.com/view/12537346/TzCP8Tgc" target="_blank">Click here to redirect to complete documentation.</a>
 
 
 
